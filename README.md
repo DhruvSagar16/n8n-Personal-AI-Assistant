@@ -8,14 +8,14 @@ The Personal AI Assistant combines a Streamlit web interface with an n8n automat
 
 ## ✨ Features
 
-- 💬 **AI Chat Assistant** — Ask questions in natural language.
-- 📅 **Calendar Management** — Assist with scheduling events and meetings.
-- 📧 **Email Assistance** — Read, summarize, and help draft email replies.
-- ✅ **Task Management** — Manage tasks and to-do lists.
-- 📝 **Quick Notes** — Save and organize notes.
-- 💰 **Expense Tracking** — Query expenses and budget-related information.
-- 🧠 **AI Agent with Tools** — Uses an n8n AI Agent with connected tools and a Groq chat model.
-- 🔗 **Streamlit Interface** — Provides an interactive chat experience.
+-  **AI Chat Assistant** — Ask questions in natural language.
+-  **Calendar Management** — Assist with scheduling events and meetings.
+-  **Email Assistance** — Read, summarize, and help draft email replies.
+-  **Task Management** — Manage tasks and to-do lists.
+-  **Quick Notes** — Save and organize notes.
+-  **Expense Tracking** — Query expenses and budget-related information.
+-  **AI Agent with Tools** — Uses an n8n AI Agent with connected tools and a Groq chat model.
+-  **Streamlit Interface** — Provides an interactive chat experience.
 
 *The availability of individual features depends on the tools, integrations, and credentials configured in the n8n workflow.*
 
@@ -149,6 +149,8 @@ Open the URL in your browser and start chatting with your assistant.
 - Improve error handling and request validation.
 - Add authentication and access controls.
 - Expand integrations with additional productivity tools.
+
+### Live Demo: [Try the AI Assistant](https://n8n-personal-ai-assistant.streamlit.app/)
 
 ## 👨‍💻 Author
 
